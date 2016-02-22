@@ -1,0 +1,2 @@
+# diningphilosophers
+Concurrent systems assignment
